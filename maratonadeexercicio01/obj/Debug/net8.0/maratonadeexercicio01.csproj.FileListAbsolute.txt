@@ -1,0 +1,15 @@
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\bin\Debug\net8.0\maratonadeexercicio01.exe
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\bin\Debug\net8.0\maratonadeexercicio01.deps.json
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\bin\Debug\net8.0\maratonadeexercicio01.runtimeconfig.json
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\bin\Debug\net8.0\maratonadeexercicio01.dll
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\bin\Debug\net8.0\maratonadeexercicio01.pdb
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\maratonadeexercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\maratonadeexercicio01.AssemblyInfoInputs.cache
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\maratonadeexercicio01.AssemblyInfo.cs
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\maratonadeexercicio01.csproj.CoreCompileInputs.cache
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\maratonadeexercicio01.sourcelink.json
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\maratonadeexercicio01.dll
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\refint\maratonadeexercicio01.dll
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\maratonadeexercicio01.pdb
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\maratonadeexercicio01.genruntimeconfig.cache
+C:\Users\kaique.ssousa3\source\repos\maratonadeexercicio01\obj\Debug\net8.0\ref\maratonadeexercicio01.dll
